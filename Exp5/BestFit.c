@@ -5,7 +5,6 @@
    Date of Execution: 22-11-2022
 */
 //source code
-b) Best Fit
 #include<stdio.h>
 #include<conio.h>
 #define max 25
